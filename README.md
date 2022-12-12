@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning lean six sigma and artificial inteligence aplyed to software enginering
 - 💞️ I’m looking to collaborate on javaee/spring-boot + jsf/angular projects 
-- 📫 How to reach me at instagram @grodrigo.so and linkedin https://www.linkedin.com/in/grsoliveira/
+- 📫 How to reach me at instagram <a href="https://www.instagram.com/grodrigo.so/">@grodrigo.so</a> and  <a href="https://www.linkedin.com/in/grsoliveira/">linkedin</a>
 
 <!---
 grsoliveira/grsoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
